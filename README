@@ -1,0 +1,6 @@
+HW1: Shakespeare - Kevin Gallegos - CSE101
+Files: Bard.cpp List.cpp List.h Makfefile shakespeare-cleaned5.txt
+Instructions:run Bard (type "make bard" in project folder"Bard") after typing that run executible while specifying input and output files
+(./bard input.txt output.txt)
+Purpose: Program will take input consisting of desired length and rank, finding words in shakespeare-cleaned5.txt and outputing the word 
+pick from desired ranked from an organized List
